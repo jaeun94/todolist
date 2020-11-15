@@ -1,4 +1,7 @@
 # todolist
+```
+vue.js + typescript
+```
 
 ## Project setup
 ```
